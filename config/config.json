@@ -1,28 +1,13 @@
 {
     "games": {
-        "League of Legends": {
+        "Diablo 4": {
             "channels": [
-                "league-of-legends"
-            ]
-        },
-        "Fortnite": {
-            "channels": [
-                "fortnite"
-            ]
-        },
-        "CSGO": {
-            "channels": [
-                "csgo"
+                "📣 • diablo4-news"
             ]
         },
         "Overwatch": {
             "channels": [
                 "overwatch"
-            ]
-        },
-        "Rust": {
-            "channels": [
-                "rust"
             ]
         },
         "Path of Exile": {
