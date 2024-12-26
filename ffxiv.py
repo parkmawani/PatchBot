@@ -2,14 +2,14 @@ import urllib
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup as soup
 
-class Diablo4():
+class ffxiv():
 
 	def __init__(self):
-		self.name = "Diablo 4"
-		self.names = ["diablo"]
+		self.name = "Final Fantasy XIV"
+		self.names = ["ffxiv"]
 		self.patch = {"title": None, "url": None, "desc": None, "image": None}
 		self.color = 16777215
-		self.thumbnail = "https://imgur.com/a/gkPGVMh"
+		self.thumbnail = "https://media.discordapp.net/attachments/949288834036797470/1321607190015905832/in1dDK52XOH5yuVoTMUr3rB6Q0.jpg?ex=676dda1c&is=676c889c&hm=5b897a710a2430b104a30789da8a1583ea17f6cbe8b492c45207ff1729bfcc2b&"
 
 	def get_patch_info(self):
 
