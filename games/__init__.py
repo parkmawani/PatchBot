@@ -1,1 +1,1 @@
-from games.diablo4 import diablo4
+from games.ffxiv import ffxiv
